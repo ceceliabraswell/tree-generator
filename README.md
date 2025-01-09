@@ -15,5 +15,5 @@ This project is an enhanced version of the Pyramid Generator I originally built 
 Building this project deepened my understanding of JavaScript for loops. I’m excited to continue improving my JavaScript skills, with the goal of refining this code to make it cleaner and more efficient
 
 <div align="center">
-    Check it out <a href="https://ceceliabraswell.github.io/tree-generator/" target="_blank">here</a>!
+    Check it out <a href="https://ceceliabraswell.github.io/tree-generator/">here</a>!
 </div>
